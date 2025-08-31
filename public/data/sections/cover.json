@@ -30,15 +30,7 @@
             "faColors": { "bg": null, "fill": null }
           }
         },
-        {
-          "value": "India",
-          "links": [{ "href": null }],
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-city",
-            "faColors": { "bg": null, "fill": null }
-          }
-        },
+       
         {
           "value": "devopspradeepyadav@gmail.com",
           "links": [{ "href": "mailto:devopspradeepyadav@gmail.com" }],
@@ -68,7 +60,19 @@
             "fa": "fa-brands fa-linkedin",
             "faColors": { "bg": null, "fill": null }
           }
+        },
+        {
+          "value": "pradeepyadav_01",
+          "links": [
+            { "href": "https://www.instagram.com/pradeepyadav_01/" }
+          ],
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-instagram",
+            "faColors": { "bg": null, "fill": null }
+          }
         }
+
       ]
     },
 
@@ -77,7 +81,7 @@
       "component": "ArticleInfoBlock",
       "config": {},
       "locales": {
-        "en": { "title": "**A little bit** about me..." }
+        "en": { "title": "**My Professional trajectory** & Ambitions" }
       },
 
       "items": [
@@ -89,7 +93,7 @@
           },
           "locales": {
             "en": {
-              "text": "<p>I’m a <b>DevOps Engineer & Full-Stack Developer</b> with hands-on experience in <b>containerization, cloud automation, CI/CD, Kubernetes, Terraform, and observability</b>. I build scalable infrastructure and deploy modern web applications.</p><p>I also work with <b>React</b> and <b>Node.js</b> for full-stack projects and enjoy automating workflows to improve reliability and developer velocity.</p><p>Outside of work, I contribute to open-source projects and love solving challenging infrastructure problems.</p>"
+              "text": "<p>I’m a <b>DevOps Engineer & Full-Stack Developer</b> with hands-on experience in <b>containerization, cloud automation, CI/CD, Kubernetes, Terraform, and observability</b>. I build scalable infrastructure and deploy modern web applications.</p><p>At some intervals work with <b>React</b> and <b>Node.js</b> for full-stack projects and enjoy automating workflows to improve reliability and developer velocity.</p><p>Outside of work, I enjoy continuous learning and exploring new technologies, exploring AI and emerging trends and love solving challenging problems.</p>"
             }
           }
         }

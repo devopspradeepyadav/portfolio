@@ -22,8 +22,8 @@
           },
           "locales": {
             "en": {
-              "title": "03",
-              "info": "Full-Stack Projects Completed"
+              "title": "05",
+              "info": " Projects Completed"
             }
           }
         },
@@ -35,7 +35,7 @@
           },
           "locales": {
             "en": {
-              "title": "200+",
+              "title": "50+",
               "info": "LeetCode Problems Solved"
             }
           }
@@ -48,7 +48,7 @@
           },
           "locales": {
             "en": {
-              "title": "05",
+              "title": "03",
               "info": "Open-Source Contributions"
             }
           }
@@ -78,7 +78,7 @@
       "items": [
         {
           "dates": {
-            "start": "11/05/2024",
+            "start": "11/09/2024",
             "end": null
           },
           "links": [],
@@ -91,16 +91,16 @@
         },
         {
           "dates": {
-            "start": "05/12/2023",
+            "start": "05/06/2025",
             "end": null
           },
           "links": [
-            { "string": "see_more", "href": "https://github.com/devopspradeepyadav" }
+            { "string": "see_more", "href": "https://github.com/devopspradeepyadav/MovieServer" }
           ],
           "locales": {
             "en": {
-              "title": "Contributed to **Open-Source Projects**",
-              "text": "Actively contributing to open-source projects on GitHub, including backend API development and cloud-based applications."
+              "title": "Designed a Secure, **Scalable Media Server** with **SSL** and **Rate Limiting**",
+              "text": "Designed and deployed a scalable Jellyfin movie server with secure SSL configuration and implemented rate limiting to ensure optimal performance and availibility."
             }
           }
         },
@@ -112,7 +112,7 @@
           "links": [
             {
               "string": "see_project",
-              "href": "https://github.com/devopspradeepyadav/E-Commerce-App-MERN"
+              "href": "https://github.com/devopspradeepyadav/e-commerce"
             }
           ],
           "locales": {
@@ -124,7 +124,7 @@
         },
         {
           "dates": {
-            "start": "12/12/2024",
+            "start": "12/05/2025",
             "end": null
           },
           "links": [

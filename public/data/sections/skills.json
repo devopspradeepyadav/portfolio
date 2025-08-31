@@ -3,7 +3,7 @@
     "en": {
       "title": "Skills",
       "title_long_prefix": "Explore",
-      "title_long": "My **Skill Set**"
+      "title_long": "My **Core Competencies**"
     }
   },
 
@@ -30,9 +30,9 @@
             "fa": "fa-brands fa-aws",
             "faColors": { "bg": "#FFD700", "fill": "#111" }
           },
-          "value": 100,
+          "value": 70,
           "dates": {
-            "start": "2023"
+            "start": "2024"
           },
           "locales": {
             "en": {
@@ -47,7 +47,7 @@
             "fa": "fa-brands fa-microsoft",
             "faColors": { "bg": "#0078D4", "fill": "#EEE" }
           },
-          "value": 70,
+          "value": 60,
           "dates": {
             "start": "2024"
           },
@@ -110,9 +110,9 @@
             "fa": "fa-solid fa-life-ring",
             "faColors": { "bg": "#326CE5", "fill": "#EEE" }
           },
-          "value": 80,
+          "value": 75,
           "dates": {
-            "start": "2025"
+            "start": "2024"
           },
           "locales": {
             "en": {
@@ -146,7 +146,7 @@
           },
           "value": 95,
           "dates": {
-            "start": "2022"
+            "start": "2023"
           },
           "locales": {
             "en": {
@@ -243,7 +243,7 @@
           },
           "value": 80,
           "dates": {
-            "start": "2022"
+            "start": "2023"
           },
           "locales": {
             "en": {
@@ -293,7 +293,7 @@
           "locales": {
             "en": {
               "title": "English",
-              "info": "Medium Level, can communicate with anyone in English and write also: Learning and improving English.",
+              "info": "Advanced Level, can communicate with confidence and have excellent communication and writing.",
               "tags": ["medium"]
             }
           }

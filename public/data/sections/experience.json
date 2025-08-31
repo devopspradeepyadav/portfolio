@@ -15,50 +15,55 @@
       "items": [
         {
           "icon": {
-            "img": "images/pictures/company1.png",
+            "img": "images/pictures/companyadobe.png",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
           "dates": {
             "start": "May 2024",
-            "end": "June 2024"
+            "end": "May 2025"
           },
           "locales": {
             "en": {
-              "title": "**Full-Stack Development Intern**",
-              "info": "Zeetron Networks Pvt. Ltd., Jaipur",
-              "text": "Developed and maintained full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Designed and implemented RESTful APIs to enhance application functionality and performance. Collaborated on frontend development, ensuring a responsive and user-friendly UI/UX.",
+              "title": "**Sr. Tech Support Escalations (L3) Adobe**",
+              "info": "Teleperformance, Gurgaon",
+              "text": "Advanced technical support for Adobe Creative Cloud products, specializing in troubleshooting complex software issues,Issue resolution ensuring optimal user experience. Collaborated with cross-functional teams(Devlopers, DevOps and Management) to escalate and resolve high-priority cases efficiently, Bug logging on Jira, Alerting critical issue.",
               "tags": [
-                "MERN Stack",
-                "REST APIs",
-                "Frontend & Backend Development",
-                "GitHub"
+                "SDLC",
+                "Jira",
+                "Cross-platform Testing",
+                "Application Devlopment",
+                "Monitoring",
+                "Installation & Configuration",
+                "Global Support"
               ]
             }
           }
         },
         {
           "icon": {
-            "img": "images/pictures/company2.jpg",
+            "img": "images/pictures/companybritishgas.png",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
           "dates": {
-            "start": "May 2025",
-            "end": "Aug 2025 (Working)"
+            "start": "Nov 2022",
+            "end": "Dec 2023"
           },
           "locales": {
             "en": {
-              "title": "**Software Development Intern (AWS)**",
-              "info": "ProfCess, Bhopal",
-              "text": "Contributing to the backend architecture of cloud-native applications using <b>AWS Lambda</b>, <b>DynamoDB</b>, and other AWS services. Focused on building scalable, serverless functions, API integrations, and infrastructure optimization. Actively involved in writing modular backend logic and ensuring high availability across deployments.",
+              "title": "**Sr. Representative (British Gas)**",
+              "info": "WNS, Indore",
+              "text": "Provided advanced technical support for British Gas clients, specializing in SAP modules, Salesforce Lightning to resolve complex billing, service, and escalation issues. Collaborated closely with cross-functional engineering teams responsible for provisioning and deploying Smart Meter infrastructure across the UK, ensuring seamless integration and operational efficiency.",
               "tags": [
-                "AWS Lambda",
-                "DynamoDB",
-                "Serverless",
-                "Backend Development",
-                "Cloud Computing",
-                "API Integration"
+                "SAP CRM",
+                "Salesforce",
+                "Hub Provisioning",
+                "Escalation Management",
+                "Installation & Configuration",
+                "Monitoring",
+                "IoT Integration",
+                "Application Testing"
               ]
             }
           }

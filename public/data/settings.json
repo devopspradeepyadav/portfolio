@@ -14,10 +14,10 @@
         "name": "Pradeep Yadav",
         "stylizedName": "<strong>Pradeep **Yadav**</strong>",
         "logoUrl": "images/svg/logo.svg",
-        "profilePictureUrl": "images/pictures/profile-pic (1) (1).png",
+        "profilePictureUrl": "public/images/pictures/pradeepprofilepic1.jpeg",
 
         "locales": {
-            "en": { "role": "DevOps Engineer & Full-Stack Developer" }
+            "en": { "role": "DevOps Engineer" }
         }
     },
 
@@ -47,7 +47,7 @@
         {
             "name": "English",
             "id": "en",
-            "flagUrl": "images/flags/hi.png",
+            "flagUrl": "images/flags/en.png",
             "default": true
         },
         {

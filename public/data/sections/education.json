@@ -15,57 +15,57 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/collage1.png",
+                        "img": "images/pictures/sgsits.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "2022",
-                        "end": "2026"
+                        "start": "2018",
+                        "end": "2022"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Bachelor** in Computer Science & Engineering",
-                            "info": "Jodhpur Institute of Engineering and Technology, Rajasthan, India",
-                            "text": "Currently pursuing a Bachelor's degree in Computer Science, focusing on Full-Stack Development, Cloud Computing, and DevOps. Current CGPA: 8.29.",
-                            "tags": ["Cloud Computing", "Full-Stack Development", "DevOps"]
+                            "title": "**Bachelor Degree**",
+                            "info": "Shri Govindram Seksaria Institute of Science and Technology, Madhya Pradesh, India",
+                            "text": "Completed B.Tech in Mechanical and Mechatronics now focusing on Full-Stack Development, Cloud Computing, and DevOps.",
+                            "tags": ["Cloud Computing", "Full-Stack Development", "DevOps", "Automation","AI"]
                         }
                     }
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/school1.jpg",
+                        "img": "images/pictures/apsmhow.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "2020",
-                        "end": "2022"
+                        "start": "2016",
+                        "end": "2017"
                     },
                     "locales": {
                         "en": {
                             "title": "Senior Secondary **(PCM)**",
-                            "info": "Samastipur College, Samastipur, India",
-                            "text": "Completed Senior Secondary education with a focus on Physics, Chemistry, and Mathematics (PCM). Achieved 74.4%.",
+                            "info": "Army Public School, MHOW, Madhya Pradesh, India",
+                            "text": "Completed Senior Secondary education with a focus on Physics, Chemistry, and Mathematics (PCM). Achieved 77.67%.",
                             "tags": ["Physics", "Chemistry", "Mathematics"]
                         }
                     }
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/plane.jpg",
+                        "img": "images/pictures/apsmhow.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "2018",
-                        "end": "2020"
+                        "start": "2014",
+                        "end": "2015"
                     },
                     "locales": {
                         "en": {
                             "title": "High School **(10th Grade)**",
-                            "info": "M.A.B.R. Jha High School, Bahdura, Bihar, India",
-                            "text": "Completed high school with an excellent academic record, securing 87.2%.",
+                            "info": "Army Public School, MHOW, Madhya Pradesh, India",
+                            "text": "Completed high school with an excellent academic record, securing 8.8 CGPA",
                             "tags": ["Academic Excellence", "Top Performer"]
                         }
                     }
