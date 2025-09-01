@@ -5,6 +5,7 @@
 📌 **GitHub Repo**: [Portfolio Repository](https://github.com/devopspradeepyadav/portfolio.git)  
 
 ---
+<img width="1362" height="725" alt="image" src="https://github.com/user-attachments/assets/c91ec646-a8b4-4e8b-8b10-892182c20805" />
 
 ## 📖 **Overview**  
 This is my **personal portfolio website** built with **React.js**. It showcases my:  
@@ -39,13 +40,9 @@ It is designed to be **fast, responsive, and visually appealing**.
 ✅ **Contact Form with EmailJS ✉️**
 
 
-## 🎨 **UI Preview**  
-| **Section** | **Preview** |
-|------------|------------|
-| **Homepage** | ![Home](https://pradeepyadav.info/#about) |
-| **Portfolio** | ![Portfolio](https://pradeepyadav.info/) |
-| **Contact** | ![Contact](https://pradeepyadav.info/#contact) |
-
+## Well Optimzed Code
+<img width="1373" height="151" alt="image" src="https://github.com/user-attachments/assets/626eee85-b987-480e-b1fd-0bcfdc8ffd19" />
+### Uses minimum resouces on 2vCPU and 0.5G RAM and works best.
 ---
 
 ## 🔧 **Installation & Setup**  
