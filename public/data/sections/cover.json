@@ -32,8 +32,8 @@
         },
        
         {
-          "value": "devopspradeepyadav@gmail.com",
-          "links": [{ "href": "mailto:devopspradeepyadav@gmail.com" }],
+          "value": "E-mail",
+          "links": [{ "href": "mailto:devopspyadav@gmail.com" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-envelope",
@@ -41,7 +41,7 @@
           }
         },
         {
-          "value": "@devopspradeepyadav",
+          "value": "GitHub",
           "links": [{ "href": "https://github.com/devopspradeepyadav" }],
           "icon": {
             "img": null,
@@ -51,7 +51,7 @@
         },
 
         {
-          "value": "@pullpy",
+          "value": "LinkedIn",
           "links": [
             { "href": "https://www.linkedin.com/in/pullpy/" }
           ],
@@ -62,7 +62,7 @@
           }
         },
         {
-          "value": "pradeepyadav_01",
+          "value": "Instagram",
           "links": [
             { "href": "https://www.instagram.com/pradeepyadav_01/" }
           ],

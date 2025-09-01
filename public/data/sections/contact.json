@@ -27,9 +27,9 @@
             },
             "items": [
                 {
-                    "value": "devopspradeepyadav@gmail.com",
+                    "value": "devopspyadav@gmail.com",
                     "links": [
-                        { "href": "mailto:devopspradeepyadav@gmail.com" }
+                        { "href": "mailto:devopspyadav@gmail.com" }
                     ],
                     "icon": {
                         "fa": "fa-solid fa-envelope"
