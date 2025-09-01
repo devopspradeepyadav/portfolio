@@ -1,8 +1,8 @@
 # 🚀 **Pradeep Yadav - Portfolio Website**    
 
-🎯 **Live Demo**: [Click Here](https://pradeepyadav.blog/)  
+🎯 **Live Demo**: [Click Here](https://pradeepyadav.info/)  
 
-📌 **GitHub Repo**: [Portfolio Repository](https://github.com/devopspradeepyadav/personal-portfolio-website.git)  
+📌 **GitHub Repo**: [Portfolio Repository](https://github.com/devopspradeepyadav/portfolio.git)  
 
 ---
 
@@ -42,9 +42,9 @@ It is designed to be **fast, responsive, and visually appealing**.
 ## 🎨 **UI Preview**  
 | **Section** | **Preview** |
 |------------|------------|
-| **Homepage** | ![Home](https://pradeepyadav.blog/) |
-| **Portfolio** | ![Portfolio](https://pradeepyadav.blog/) |
-| **Contact** | ![Contact](https://pradeepyadav.blog/#contact) |
+| **Homepage** | ![Home](https://pradeepyadav.info/#about) |
+| **Portfolio** | ![Portfolio](https://pradeepyadav.info/) |
+| **Contact** | ![Contact](https://pradeepyadav.info/#contact) |
 
 ---
 
@@ -53,8 +53,8 @@ Follow these simple steps to set up the project on your local machine:
 
 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/devopspradeepyadav/personal-portfolio-website.git
-cd personal-portfolio-website
+git clone https://github.com/devopspradeepyadav/portfolio.git
+cd portfolio
 ```
 
 2️⃣ **Install Dependencies**  
@@ -68,25 +68,25 @@ npm run dev
 ```
 
 4️⃣ **Open in Browser**  
-Visit: `http://localhost:5173/personal-portfolio-website/`
+Visit: `http://localhost:5173/`
 
 ---
 
 ## 📄 **Resume Integration**  
 To update your resume, replace the file in the **public/documents** folder:  
 ```sh
-/public/documents/Pradeep Resume Aug 2025.pdf
+/public/documents/Pradeep Resume.pdf
 ```
 Ensure the **Resume.js** component points to the correct file:
 ```jsx
-const resumeUrl = "/documents/Pradeep Resume Aug 2025.pdf";
+const resumeUrl = "/documents/Pradeep.pdf";
 ```
 
 ---
 
 ## 📬 **Contact Me**  
-💼 **Portfolio**: [pradeepyadav.blog](https://pradeepyadav.blog/)  
-📧 **Email**: [devopspradeepyadav@gmail.com](mailto:devopspradeepyadav@gmail.com)  
+💼 **Portfolio**: [pradeepyadav.info](https://pradeepyadav.info/)  
+📧 **Email**: [ ](mailto:devopyadav@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/pullpy](https://linkedin.com/in/pullpy)  
 🐙 **GitHub**: [github.com/devopspradeepyadav](https://github.com/devopspradeepyadav)  
 
