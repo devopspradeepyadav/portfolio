@@ -42,7 +42,9 @@ It is designed to be **fast, responsive, and visually appealing**.
 
 ## Well Optimzed Code
 <img width="1373" height="151" alt="image" src="https://github.com/user-attachments/assets/626eee85-b987-480e-b1fd-0bcfdc8ffd19" />
-### Uses minimum resouces on 2vCPU and 0.5G RAM and works best.
+
+### Uses minimum resouces on 2vCPU and 0.5G RAM and works best with some tweaks.
+
 ---
 
 ## 🔧 **Installation & Setup**  
