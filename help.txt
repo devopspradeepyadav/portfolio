@@ -2,6 +2,6 @@
 
 --> Run The Project : npm run dev
 
---> For Update The About Me - cover.json
+--> Run The Project : npm run build
 
---> 
+--> Run The Project : npm run preview to start the live page 
